@@ -1,15 +1,18 @@
 # ----- 信息 -----
-# @filename template.sh
+# @filename variable.sh
 # @version 1.0
 # @author qye.zheng
-# @description 
+# @description 变量
 
 #!/bin/bash
 
 ################################################################################################
 
+# 循环列出 /etc目录
+for file in 'ls /etc'
 
-#
+# 或
+for file in $(ls /etc)
 
 #
 

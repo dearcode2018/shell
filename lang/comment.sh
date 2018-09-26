@@ -1,14 +1,28 @@
 # ----- 信息 -----
-# @filename template.sh
+# @filename comment.sh
 # @version 1.0
 # @author qye.zheng
-# @description 
+# @description 注释
 
 #!/bin/bash
 
 ################################################################################################
 
+#单行注释
+#多行注释: 冒号+2个小于号+任意字符开头和结尾
+:<<A
+ comment
+A
 
+:<<!
+  comment
+!
+
+#或者
+
+# 
+
+echo "comment";
 #
 
 #

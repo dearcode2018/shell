@@ -1,16 +1,24 @@
 # ----- 信息 -----
-# @filename template.sh
+# @filename variable.sh
 # @version 1.0
 # @author qye.zheng
-# @description 
+# @description 变量
 
 #!/bin/bash
 
 ################################################################################################
 
+# echo $PWD
 
-#
-
+# 循环列出 /etc目录
+# 注意，这里不是单引号包围，是 ` 号
+for file in `ls /etc`; do
+ echo "${file} in /etc"
+done
+# 或
+#for file in $(ls /etc); do
+ # echo "${file} in /etc"
+#done 
 #
 
 #

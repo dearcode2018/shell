@@ -1,26 +1,18 @@
 # ----- 信息 -----
-# @filename array.sh
+# @filename operation.sh
 # @version 1.0
 # @author qye.zheng
-# @description 数组
+# @description 运算
 
 #!/bin/bash
 
 ################################################################################################
 
-# 
-arr1=(a b c)
-echo "数组长度(\${#arr1[*]}):${#arr1[*]}"
-echo "数组长度(\${#arr1[@]}):${#arr1[@]}"
-arr2[0]=a1
-arr2[1]=b2
-arr2[2]=c3
-# 读取数组元素 ${arr[index]}
-echo ${arr2[0]}
-#输出数组元素
-for e in "${arr2[@]}"; do
-	echo $e
-done
+# 原生bash不支持算术运算，可通过其他命令来实现，例如 awk expr
+# expr 是表达式(expression)计算工具，能完成表达式求值操作
+val=`expr 2 + 34`
+echo $val
+#
 
 #
 

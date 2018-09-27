@@ -11,10 +11,19 @@
 
 #
 
+# 只读变量: readonly var_name.只读变量相当于final
+# 只读变量不能删除unset
 # 只读变量
 readonly readVar="readonly variable"
 echo $readVar
 
+
+
+# 删除变量, readonly 变量不能删除
+var2="i am var2"
+unset var2
+# 变量已经删除，输出空
+echo $var2
 
 
 

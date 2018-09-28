@@ -1,2 +1,26 @@
-to file ha
-append
+总用量 44
+-rw-r--r-- 1 root root    0 9月  28 21:54 myfile
+-rwxr-xr-x 1 root root  808 9月  28 21:54 ioRedirect.sh
+-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+-rwxr-xr-x 1 root root 2324 9月  27 22:37 flow.sh
+-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+-rwxr-xr-x 1 root root  802 9月  27 12:41 array.sh
+-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh
+总用量 48K
+-rw-r--r-- 1 root root  650 9月  28 21:54 myfile
+-rwxr-xr-x 1 root root  808 9月  28 21:54 ioRedirect.sh
+-rwxr-xr-x 1 root root 1.3K 9月  27 22:57 function.sh
+-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+-rwxr-xr-x 1 root root 2.3K 9月  27 22:37 flow.sh
+-rwxr-xr-x 1 root root 1.1K 9月  27 15:47 test.sh
+-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+-rwxr-xr-x 1 root root  802 9月  27 12:41 array.sh
+-rwxr-xr-x 1 root root 2.3K 9月  27 12:36 operation.sh
+-rwxr-xr-x 1 root root 1.5K 9月  27 09:51 variable.sh
+-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+-rwxr-xr-x 1 root root 1.4K 9月  26 22:44 param.sh

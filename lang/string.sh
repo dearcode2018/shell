@@ -34,7 +34,13 @@ echo "index:" `expr index ${var5} ne`
 
 ################################################################################################
 
-
+# 字符分隔符
+data="name,sex,rollno,location"
+IFS=,
+for val in $data
+do
+ echo "item:" $val
+done
 
 #
 

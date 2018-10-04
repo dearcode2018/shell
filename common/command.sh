@@ -20,9 +20,18 @@
 
 #
 
-#
+# 读取命令序列输出
+cmd_output=$(ls -lt | cat -n);
+echo $cmd_output;
+# or
+cmd_output2=`ls -lt | cat -n`
+echo $cmd_output2
 
-#
+# 子shell
+pwd;
+(cd /bin;ls;pwd)
+pwd;
+
 
 ################################################################################################
 

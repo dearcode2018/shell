@@ -65,6 +65,11 @@ do
 done
 #
 
+for (( i=0;i<10;i++ ))
+{
+  echo "value: " $i
+}
+
 
 # while 循环
 :<<COMM

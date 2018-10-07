@@ -1,0 +1,5 @@
+     1	总用量 8
+     2	-rw-r--r-- 1 root root    0 10月  5 12:39 out2.txt
+     3	-rw-r--r-- 1 root root  172 10月  5 12:39 out1.txt
+     4	-rwxr-xr-x 1 root root 1038 10月  5 12:39 command.sh
+     5	-rw-r--r-- 1 root root    0 9月  26 12:13 readme.txt

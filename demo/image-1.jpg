@@ -1,0 +1,16 @@
+总用量 48
+-rw-r--r-- 1 root root    0 10月  7 17:44 a.jpg
+-rwxr-xr-x 1 root root  608 10月  7 17:44 rename.sh
+-rwxr-xr-x 1 root root 1088 10月  7 17:43 test.sh
+-rw-r--r-- 1 root root   15 10月  4 18:33 output.txt
+-rw-r--r-- 1 root root   20 10月  4 18:18 input.txt
+-rw-r--r-- 1 root root   40 10月  4 18:09 err.txt
+-rw-r--r-- 1 root root   12 10月  4 17:59 stdin
+-rw-r--r-- 1 root root    8 10月  4 17:52 out.txt
+-rw-r----- 1 root root    5 10月  4 13:03 tomcat.pid
+-rwxr-xr-x 1 root root  907 9月  29 14:57 restartTomcat.sh
+-rw-r--r-- 1 root root    7 9月  29 12:46 myfile
+-rw-r--r-- 1 root root    0 9月  29 12:39 name
+-rwxr-xr-x 1 root root  764 9月  26 16:12 variable.sh
+-rwxr-xr-x 1 root root  631 9月  26 15:55 variable.sh_bak
+-rw-r--r-- 1 root root    0 9月  26 12:13 readme.txt

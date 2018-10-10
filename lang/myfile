@@ -24,3 +24,83 @@
 -rwxr-xr-x 1 root root 1.5K 9月  27 09:51 variable.sh
 -rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
 -rwxr-xr-x 1 root root 1.4K 9月  26 22:44 param.sh
+     1	总用量 60
+     2	-rwxr-xr-x 1 root root 2372 10月  4 22:33 flow.sh
+     3	-rwxr-xr-x 1 root root 1007 10月  4 22:27 string.sh
+     4	-rwxr-xr-x 1 root root 1364 10月  4 18:50 array.sh
+     5	-rwxr-xr-x 1 root root  696 9月  28 22:15 include.sh
+     6	-rw-r--r-- 1 root root  582 9月  28 22:11 include2.sh
+     7	-rwxr-xr-x 1 root root 1281 9月  28 22:02 ioRedirect.sh
+     8	-rw-r--r-- 1 root root 1301 9月  28 21:54 myfile
+     9	-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+    10	-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+    11	-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+    12	-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+    13	-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+    14	-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+    15	-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+    16	-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh
+     1	总用量 60
+     2	-rw-r--r-- 1 root root 2225 10月  8 22:38 myfile
+     3	-rwxr-xr-x 1 root root 2372 10月  4 22:33 flow.sh
+     4	-rwxr-xr-x 1 root root 1007 10月  4 22:27 string.sh
+     5	-rwxr-xr-x 1 root root 1364 10月  4 18:50 array.sh
+     6	-rwxr-xr-x 1 root root  696 9月  28 22:15 include.sh
+     7	-rw-r--r-- 1 root root  582 9月  28 22:11 include2.sh
+     8	-rwxr-xr-x 1 root root 1281 9月  28 22:02 ioRedirect.sh
+     9	-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+    10	-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+    11	-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+    12	-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+    13	-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+    14	-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+    15	-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+    16	-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh
+     1	总用量 60
+     2	-rw-r--r-- 1 root root 3149 10月  8 22:38 myfile
+     3	-rwxr-xr-x 1 root root 2372 10月  4 22:33 flow.sh
+     4	-rwxr-xr-x 1 root root 1007 10月  4 22:27 string.sh
+     5	-rwxr-xr-x 1 root root 1364 10月  4 18:50 array.sh
+     6	-rwxr-xr-x 1 root root  696 9月  28 22:15 include.sh
+     7	-rw-r--r-- 1 root root  582 9月  28 22:11 include2.sh
+     8	-rwxr-xr-x 1 root root 1281 9月  28 22:02 ioRedirect.sh
+     9	-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+    10	-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+    11	-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+    12	-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+    13	-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+    14	-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+    15	-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+    16	-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh
+     1	总用量 60
+     2	-rw-r--r-- 1 root root 4073 10月  8 22:38 myfile
+     3	-rwxr-xr-x 1 root root 2372 10月  4 22:33 flow.sh
+     4	-rwxr-xr-x 1 root root 1007 10月  4 22:27 string.sh
+     5	-rwxr-xr-x 1 root root 1364 10月  4 18:50 array.sh
+     6	-rwxr-xr-x 1 root root  696 9月  28 22:15 include.sh
+     7	-rw-r--r-- 1 root root  582 9月  28 22:11 include2.sh
+     8	-rwxr-xr-x 1 root root 1281 9月  28 22:02 ioRedirect.sh
+     9	-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+    10	-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+    11	-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+    12	-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+    13	-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+    14	-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+    15	-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+    16	-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh
+     1	总用量 64
+     2	-rw-r--r-- 1 root root 4997 10月  8 22:39 myfile
+     3	-rwxr-xr-x 1 root root 2372 10月  4 22:33 flow.sh
+     4	-rwxr-xr-x 1 root root 1007 10月  4 22:27 string.sh
+     5	-rwxr-xr-x 1 root root 1364 10月  4 18:50 array.sh
+     6	-rwxr-xr-x 1 root root  696 9月  28 22:15 include.sh
+     7	-rw-r--r-- 1 root root  582 9月  28 22:11 include2.sh
+     8	-rwxr-xr-x 1 root root 1281 9月  28 22:02 ioRedirect.sh
+     9	-rwxr-xr-x 1 root root 1277 9月  27 22:57 function.sh
+    10	-rwxr-xr-x 1 root root  873 9月  27 22:54 echo.sh
+    11	-rwxr-xr-x 1 root root 1068 9月  27 15:47 test.sh
+    12	-rwxr-xr-x 1 root root  971 9月  27 13:00 printf.sh
+    13	-rwxr-xr-x 1 root root 2321 9月  27 12:36 operation.sh
+    14	-rwxr-xr-x 1 root root 1449 9月  27 09:51 variable.sh
+    15	-rwxr-xr-x 1 root root  696 9月  26 22:50 comment.sh
+    16	-rwxr-xr-x 1 root root 1350 9月  26 22:44 param.sh

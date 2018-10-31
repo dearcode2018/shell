@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "hehe"
+echo "hehe 中文哈"
 
 
 
